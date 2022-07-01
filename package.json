@@ -1,0 +1,11 @@
+{
+  "name": "basic-chat-app",
+  "version": "1.0.0",
+  "description": "I am making this repo for a basic chat app as an intro to Web Sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
